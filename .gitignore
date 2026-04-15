@@ -1,0 +1,8 @@
+.vs/
+build-verify/
+
+bin/
+obj/
+
+*.user
+config.json
